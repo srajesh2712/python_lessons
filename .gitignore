@@ -1,2 +1,12 @@
 .idea/
 myenv/
+*.pth
+# Audio files
+*.wav
+*.mp3
+*.MP3
+ml/deutsch_ai/sentences.txt
+*.zip
+*.pkl
+*.pth
+*.zip
